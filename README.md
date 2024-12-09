@@ -16,5 +16,7 @@ Level Design Document
 
 Level Generation Automation Document
 - Outlines processes to develop an algorithm to automate level progression or improve its efficiency
+
+# Basic Concept Wireframe
 ![image](https://github.com/user-attachments/assets/b9446159-ec10-4f36-90db-f28a0c554ffd)
 
